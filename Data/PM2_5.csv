@@ -1,0 +1,64 @@
+Unique Id,indicator_id,geo_type_id,measurement_type_id,internal_id,subtopic_id,name,Measure,geo_type_name,description,geo_entity_id,geo_entity_name,year_description,data_value
+334183,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),101,Financial District (CD1),Annual Average 2015,10.57
+334186,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),102,Greenwich Village and Soho (CD2),Annual Average 2015,10.61
+334189,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),103,Lower East Side and Chinatown (CD3),Annual Average 2015,9.95
+334192,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),104,Clinton and Chelsea (CD4),Annual Average 2015,10.91
+334195,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),105,Midtown (CD5),Annual Average 2015,12.28
+334198,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),106,Stuyvesant Town and Turtle Bay (CD6),Annual Average 2015,11.21
+334201,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),107,Upper West Side (CD7),Annual Average 2015,9.77
+334204,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),108,Upper East Side (CD8),Annual Average 2015,10.22
+334207,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),109,Morningside Heights and Hamilton Heights (CD9),Annual Average 2015,9.44
+334210,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),110,Central Harlem (CD10),Annual Average 2015,9.29
+334213,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),111,East Harlem (CD11),Annual Average 2015,9.5
+334216,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),112,Washington Heights and Inwood (CD12),Annual Average 2015,9.36
+334219,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),201,Mott Haven and Melrose (CD1),Annual Average 2015,9.93
+334222,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),202,Hunts Point and Longwood (CD2),Annual Average 2015,9.85
+334225,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),203,Morrisania and Crotona (CD3),Annual Average 2015,9.3
+334228,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),204,Highbridge and Concourse (CD4),Annual Average 2015,9.72
+334231,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),205,Fordham and University Heights (CD5),Annual Average 2015,9.85
+334234,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),206,Belmont and East Tremont (CD6),Annual Average 2015,9.45
+334237,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),207,Kingsbridge Heights and Bedford (CD7),Annual Average 2015,9.34
+334240,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),208,Riverdale and Fieldston (CD8),Annual Average 2015,9.16
+334243,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),209,Parkchester and Soundview (CD9),Annual Average 2015,8.99
+334246,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),210,Throgs Neck and Co-op City (CD10),Annual Average 2015,8.96
+334249,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),211,Morris Park and Bronxdale (CD11),Annual Average 2015,8.91
+334252,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),212,Williamsbridge and Baychester (CD12),Annual Average 2015,9.08
+334255,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),301,Greenpoint and Williamsburg (CD1),Annual Average 2015,10.56
+334258,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),302,Fort Greene and Brooklyn Heights (CD2),Annual Average 2015,9.83
+334261,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),303,Bedford Stuyvesant (CD3),Annual Average 2015,9.03
+334264,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),304,Bushwick (CD4),Annual Average 2015,8.98
+334267,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),305,East New York and Starrett City (CD5),Annual Average 2015,8.66
+334270,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),306,Park Slope and Carroll Gardens (CD6),Annual Average 2015,9.91
+334273,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),307,Sunset Park (CD7),Annual Average 2015,9.56
+334276,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),308,Crown Heights and Prospect Heights (CD8),Annual Average 2015,8.91
+334279,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),309,South Crown Heights and Lefferts Gardens (CD9),Annual Average 2015,8.7
+334282,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),310,Bay Ridge and Dyker Heights (CD10),Annual Average 2015,8.42
+334285,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),311,Bensonhurst (CD11),Annual Average 2015,8.02
+334288,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),312,Borough Park (CD12),Annual Average 2015,8.49
+334291,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),313,Coney Island (CD13),Annual Average 2015,7.62
+334294,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),314,Flatbush and Midwood (CD14),Annual Average 2015,8.42
+334297,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),315,Sheepshead Bay (CD15),Annual Average 2015,7.76
+334300,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),316,Brownsville (CD16),Annual Average 2015,8.88
+334303,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),317,East Flatbush (CD17),Annual Average 2015,8.73
+334306,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),318,Flatlands and Canarsie (CD18),Annual Average 2015,8.06
+334309,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),401,Long Island City and Astoria (CD1),Annual Average 2015,8.99
+334312,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),402,Woodside and Sunnyside (CD2),Annual Average 2015,10.31
+334315,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),403,Jackson Heights (CD3),Annual Average 2015,8.34
+334318,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),404,Elmhurst and Corona (CD4),Annual Average 2015,8.7
+334321,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),405,Ridgewood and Maspeth (CD5),Annual Average 2015,8.91
+334324,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),406,Rego Park and Forest Hills (CD6),Annual Average 2015,8.48
+334327,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),407,Flushing and Whitestone (CD7),Annual Average 2015,8.48
+334330,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),408,Hillcrest and Fresh Meadows (CD8),Annual Average 2015,8.18
+334333,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),409,Kew Gardens and Woodhaven (CD9),Annual Average 2015,8.29
+334336,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),410,South Ozone Park and Howard Beach (CD10),Annual Average 2015,7.89
+334339,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),411,Bayside and Little Neck (CD11),Annual Average 2015,8.22
+334342,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),412,Jamaica and Hollis (CD12),Annual Average 2015,8.21
+334345,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),413,Queens Village (CD13),Annual Average 2015,7.91
+334348,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),414,Rockaway and Broad Channel (CD14),Annual Average 2015,7.15
+334351,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),501,St. George and Stapleton (CD1),Annual Average 2015,8.15
+334354,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),502,South Beach and Willowbrook (CD2),Annual Average 2015,7.8
+334357,365,17,104,2023,91,Fine Particulate Matter (PM2.5),Mean,CD,Neighborhood (community district),503,Tottenville and Great Kills (CD3),Annual Average 2015,7.29
+,,,,,,,,,,,,,
+NYC Department of Health and Mental Hygiene,,,,,,,,,,,,,
+Environment & Health Data Portal,,,,,,,,,,,,,
+Available at: http://nyc.gov/health/tracking Accessed 10/17/2017,,,,,,,,,,,,,

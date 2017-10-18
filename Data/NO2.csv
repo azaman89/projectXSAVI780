@@ -1,0 +1,64 @@
+Unique Id,indicator_id,geo_type_id,measurement_type_id,internal_id,subtopic_id,name,Measure,geo_type_name,description,geo_entity_id,geo_entity_name,year_description,data_value
+336721,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),101,Financial District (CD1),Annual Average 2015,26.7
+336724,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),102,Greenwich Village and Soho (CD2),Annual Average 2015,26.31
+336727,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),103,Lower East Side and Chinatown (CD3),Annual Average 2015,24.3
+336730,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),104,Clinton and Chelsea (CD4),Annual Average 2015,27.25
+336733,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),105,Midtown (CD5),Annual Average 2015,32.91
+336736,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),106,Stuyvesant Town and Turtle Bay (CD6),Annual Average 2015,29.29
+336739,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),107,Upper West Side (CD7),Annual Average 2015,23.85
+336742,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),108,Upper East Side (CD8),Annual Average 2015,25.77
+336745,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),109,Morningside Heights and Hamilton Heights (CD9),Annual Average 2015,22.95
+336748,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),110,Central Harlem (CD10),Annual Average 2015,23.25
+336751,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),111,East Harlem (CD11),Annual Average 2015,22.9
+336754,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),112,Washington Heights and Inwood (CD12),Annual Average 2015,20.72
+336757,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),201,Mott Haven and Melrose (CD1),Annual Average 2015,21.8
+336760,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),202,Hunts Point and Longwood (CD2),Annual Average 2015,20.85
+336763,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),203,Morrisania and Crotona (CD3),Annual Average 2015,21.37
+336766,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),204,Highbridge and Concourse (CD4),Annual Average 2015,22.44
+336769,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),205,Fordham and University Heights (CD5),Annual Average 2015,22.7
+336772,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),206,Belmont and East Tremont (CD6),Annual Average 2015,21.41
+336775,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),207,Kingsbridge Heights and Bedford (CD7),Annual Average 2015,20.94
+336778,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),208,Riverdale and Fieldston (CD8),Annual Average 2015,17.83
+336781,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),209,Parkchester and Soundview (CD9),Annual Average 2015,20.12
+336784,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),210,Throgs Neck and Co-op City (CD10),Annual Average 2015,18.76
+336787,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),211,Morris Park and Bronxdale (CD11),Annual Average 2015,19.63
+336790,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),212,Williamsbridge and Baychester (CD12),Annual Average 2015,18.97
+336793,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),301,Greenpoint and Williamsburg (CD1),Annual Average 2015,21.66
+336796,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),302,Fort Greene and Brooklyn Heights (CD2),Annual Average 2015,22.4
+336799,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),303,Bedford Stuyvesant (CD3),Annual Average 2015,21.26
+336802,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),304,Bushwick (CD4),Annual Average 2015,20.34
+336805,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),305,East New York and Starrett City (CD5),Annual Average 2015,18.71
+336808,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),306,Park Slope and Carroll Gardens (CD6),Annual Average 2015,21.35
+336811,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),307,Sunset Park (CD7),Annual Average 2015,19.81
+336814,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),308,Crown Heights and Prospect Heights (CD8),Annual Average 2015,21.29
+336817,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),309,South Crown Heights and Lefferts Gardens (CD9),Annual Average 2015,20.76
+336820,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),310,Bay Ridge and Dyker Heights (CD10),Annual Average 2015,19.16
+336823,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),311,Bensonhurst (CD11),Annual Average 2015,19.1
+336826,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),312,Borough Park (CD12),Annual Average 2015,19.93
+336829,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),313,Coney Island (CD13),Annual Average 2015,16.07
+336832,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),314,Flatbush and Midwood (CD14),Annual Average 2015,19.26
+336835,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),315,Sheepshead Bay (CD15),Annual Average 2015,17.4
+336838,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),316,Brownsville (CD16),Annual Average 2015,20.08
+336841,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),317,East Flatbush (CD17),Annual Average 2015,19.81
+336844,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),318,Flatlands and Canarsie (CD18),Annual Average 2015,16.61
+336847,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),401,Long Island City and Astoria (CD1),Annual Average 2015,20.65
+336850,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),402,Woodside and Sunnyside (CD2),Annual Average 2015,21.21
+336853,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),403,Jackson Heights (CD3),Annual Average 2015,20.98
+336856,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),404,Elmhurst and Corona (CD4),Annual Average 2015,21.87
+336859,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),405,Ridgewood and Maspeth (CD5),Annual Average 2015,19.37
+336862,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),406,Rego Park and Forest Hills (CD6),Annual Average 2015,20.01
+336865,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),407,Flushing and Whitestone (CD7),Annual Average 2015,19.04
+336868,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),408,Hillcrest and Fresh Meadows (CD8),Annual Average 2015,18.34
+336871,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),409,Kew Gardens and Woodhaven (CD9),Annual Average 2015,19.47
+336874,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),410,South Ozone Park and Howard Beach (CD10),Annual Average 2015,18.17
+336877,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),411,Bayside and Little Neck (CD11),Annual Average 2015,17.64
+336880,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),412,Jamaica and Hollis (CD12),Annual Average 2015,18.53
+336883,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),413,Queens Village (CD13),Annual Average 2015,17.22
+336886,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),414,Rockaway and Broad Channel (CD14),Annual Average 2015,13.44
+336889,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),501,St. George and Stapleton (CD1),Annual Average 2015,16.91
+336892,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),502,South Beach and Willowbrook (CD2),Annual Average 2015,13.62
+336895,375,17,104,2025,91,Nitrogen Dioxide (NO2),Mean,CD,Neighborhood (community district),503,Tottenville and Great Kills (CD3),Annual Average 2015,11.81
+,,,,,,,,,,,,,
+NYC Department of Health and Mental Hygiene,,,,,,,,,,,,,
+Environment & Health Data Portal,,,,,,,,,,,,,
+Available at: http://nyc.gov/health/tracking Accessed 10/17/2017,,,,,,,,,,,,,

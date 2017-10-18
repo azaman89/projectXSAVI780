@@ -1,0 +1,64 @@
+Unique Id,indicator_id,geo_type_id,measurement_type_id,internal_id,subtopic_id,name,Measure,geo_type_name,description,geo_entity_id,geo_entity_name,year_description,data_value
+338249,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),101,Financial District (CD1),Summer 2015,27.06
+338250,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),102,Greenwich Village and Soho (CD2),Summer 2015,27.21
+338251,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),103,Lower East Side and Chinatown (CD3),Summer 2015,28
+338252,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),104,Clinton and Chelsea (CD4),Summer 2015,27.11
+338253,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),105,Midtown (CD5),Summer 2015,24.3
+338254,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),106,Stuyvesant Town and Turtle Bay (CD6),Summer 2015,25.84
+338255,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),107,Upper West Side (CD7),Summer 2015,28.13
+338256,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),108,Upper East Side (CD8),Summer 2015,28.01
+338257,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),109,Morningside Heights and Hamilton Heights (CD9),Summer 2015,28.77
+338258,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),110,Central Harlem (CD10),Summer 2015,29.07
+338259,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),111,East Harlem (CD11),Summer 2015,29.61
+338260,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),112,Washington Heights and Inwood (CD12),Summer 2015,28.95
+338261,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),201,Mott Haven and Melrose (CD1),Summer 2015,30.79
+338262,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),202,Hunts Point and Longwood (CD2),Summer 2015,31.83
+338263,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),203,Morrisania and Crotona (CD3),Summer 2015,30.24
+338264,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),204,Highbridge and Concourse (CD4),Summer 2015,29.68
+338265,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),205,Fordham and University Heights (CD5),Summer 2015,29.15
+338266,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),206,Belmont and East Tremont (CD6),Summer 2015,29.8
+338267,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),207,Kingsbridge Heights and Bedford (CD7),Summer 2015,29.2
+338268,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),208,Riverdale and Fieldston (CD8),Summer 2015,28.79
+338269,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),209,Parkchester and Soundview (CD9),Summer 2015,31.19
+338270,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),210,Throgs Neck and Co-op City (CD10),Summer 2015,31.68
+338271,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),211,Morris Park and Bronxdale (CD11),Summer 2015,30.48
+338272,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),212,Williamsbridge and Baychester (CD12),Summer 2015,29.75
+338273,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),301,Greenpoint and Williamsburg (CD1),Summer 2015,31.01
+338274,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),302,Fort Greene and Brooklyn Heights (CD2),Summer 2015,29.39
+338275,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),303,Bedford Stuyvesant (CD3),Summer 2015,30.64
+338276,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),304,Bushwick (CD4),Summer 2015,31.66
+338277,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),305,East New York and Starrett City (CD5),Summer 2015,32.92
+338278,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),306,Park Slope and Carroll Gardens (CD6),Summer 2015,30.03
+338279,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),307,Sunset Park (CD7),Summer 2015,31.2
+338280,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),308,Crown Heights and Prospect Heights (CD8),Summer 2015,30.67
+338281,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),309,South Crown Heights and Lefferts Gardens (CD9),Summer 2015,31.24
+338282,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),310,Bay Ridge and Dyker Heights (CD10),Summer 2015,31.77
+338283,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),311,Bensonhurst (CD11),Summer 2015,33.38
+338284,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),312,Borough Park (CD12),Summer 2015,31.98
+338285,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),313,Coney Island (CD13),Summer 2015,35.76
+338286,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),314,Flatbush and Midwood (CD14),Summer 2015,32.26
+338287,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),315,Sheepshead Bay (CD15),Summer 2015,34.76
+338288,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),316,Brownsville (CD16),Summer 2015,32.07
+338289,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),317,East Flatbush (CD17),Summer 2015,32.39
+338290,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),318,Flatlands and Canarsie (CD18),Summer 2015,34.66
+338291,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),401,Long Island City and Astoria (CD1),Summer 2015,31.83
+338292,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),402,Woodside and Sunnyside (CD2),Summer 2015,31.65
+338293,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),403,Jackson Heights (CD3),Summer 2015,31.53
+338294,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),404,Elmhurst and Corona (CD4),Summer 2015,31.23
+338295,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),405,Ridgewood and Maspeth (CD5),Summer 2015,32.08
+338296,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),406,Rego Park and Forest Hills (CD6),Summer 2015,31.08
+338297,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),407,Flushing and Whitestone (CD7),Summer 2015,31.92
+338298,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),408,Hillcrest and Fresh Meadows (CD8),Summer 2015,31.3
+338299,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),409,Kew Gardens and Woodhaven (CD9),Summer 2015,31.8
+338300,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),410,South Ozone Park and Howard Beach (CD10),Summer 2015,33.12
+338301,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),411,Bayside and Little Neck (CD11),Summer 2015,31.36
+338302,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),412,Jamaica and Hollis (CD12),Summer 2015,32.18
+338303,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),413,Queens Village (CD13),Summer 2015,32.64
+338304,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),414,Rockaway and Broad Channel (CD14),Summer 2015,37.54
+338305,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),501,St. George and Stapleton (CD1),Summer 2015,30.39
+338306,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),502,South Beach and Willowbrook (CD2),Summer 2015,32.47
+338307,386,17,104,2027,91,Ozone (O3),Mean,CD,Neighborhood (community district),503,Tottenville and Great Kills (CD3),Summer 2015,34.09
+,,,,,,,,,,,,,
+NYC Department of Health and Mental Hygiene,,,,,,,,,,,,,
+Environment & Health Data Portal,,,,,,,,,,,,,
+Available at: http://nyc.gov/health/tracking Accessed 10/17/2017,,,,,,,,,,,,,
